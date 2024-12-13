@@ -3,6 +3,13 @@
 
 This project demonstrates how to build a PyQt6 application for voice recording and automatic translation, which can upload the recorded data to MySQL and Edge Impulse for deep learning processing. The trained model will be converted into an Arduino library for ESP32, enabling it to classify audio inputs intelligently.
 
+## Authors
+1. Rizal Khoirul Atok (2042231013)
+2. Egga Terbyd Fabryan (2042231029)
+3. Valencia Christina Setiowardhani (2042231055)
+
+Teknik Instrumentasi - Institut Teknologi Sepuluh Nopember
+
 ## Features
 
 1. **Voice Recording**: Record audio input using a simple and intuitive GUI.
