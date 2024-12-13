@@ -1,3 +1,4 @@
+![alt text](https://github.com/atok99/kel.3_sps-edge-impuls-voice-command/blob/main/GUI.jpg?raw=true)
 # Voice Recorder and Translator with AI Training for ESP32
 
 This project demonstrates how to build a PyQt6 application for voice recording and automatic translation, which can upload the recorded data to MySQL and Edge Impulse for deep learning processing. The trained model will be converted into an Arduino library for ESP32, enabling it to classify audio inputs intelligently.
