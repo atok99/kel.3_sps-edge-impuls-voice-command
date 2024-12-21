@@ -7,6 +7,7 @@ This project demonstrates how to build a PyQt6 application for voice recording a
 1. Rizal Khoirul Atok (2042231013)
 2. Egga Terbyd Fabryan (2042231029)
 3. Valencia Christina Setiowardhani (2042231055)
+4. Ahmad Radhy (Supervisor)
 
 Teknik Instrumentasi - Institut Teknologi Sepuluh Nopember
 
